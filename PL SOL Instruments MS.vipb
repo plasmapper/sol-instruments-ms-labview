@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-27 18:26:38" Creator="Researcher" Comments="" ID="33759df38d729c97c70abe9c68b3167a">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-27 20:06:46" Creator="Researcher" Comments="" ID="efd5de6235dc20a066b9a526ddf2262e">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_SOL_Instruments_MS</Package_File_Name>
-    <Library_Version>1.0.0.2</Library_Version>
+    <Library_Version>1.0.0.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\build</Library_Output_Folder>
@@ -292,7 +292,7 @@ Manufacturer .cfg file (e.g. MS3504.cfg) is required to initialize the device.</
         <Path>Public\Utility</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>48C561F4CAC1C39D35BF8EBCE0B1B195</GUID>
+      <GUID>2CBFC396B1E2B574BD43DC201A32ABD6</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -383,7 +383,7 @@ Manufacturer .cfg file (e.g. MS3504.cfg) is required to initialize the device.</
         <Path>Public\Configure\Get Device Configuration.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C8C761D5620D48A89C8B02E1C854D464</GUID>
+      <GUID>BA8152581834E4CFA55D28946A47AACA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -432,7 +432,7 @@ Manufacturer .cfg file (e.g. MS3504.cfg) is required to initialize the device.</
         <Path>Public\Action-Status\Open Shutter.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>759130706209AD3FC1D42128B4C786BF</GUID>
+      <GUID>7DC3D555E105DDB3C573E944A162DBD6</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -481,7 +481,7 @@ Manufacturer .cfg file (e.g. MS3504.cfg) is required to initialize the device.</
         <Path>Public\Utility\Get Device Information.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>49C23478DC92E53D4863AFD57D1A4D27</GUID>
+      <GUID>21D05CF99C38387E93EA2785C55E8DE7</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
