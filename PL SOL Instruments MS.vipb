@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-27 16:10:15" Creator="Researcher" Comments="" ID="a8b976f9d0d075b75f7f4f88ffe91caa">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-27 18:26:38" Creator="Researcher" Comments="" ID="33759df38d729c97c70abe9c68b3167a">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_SOL_Instruments_MS</Package_File_Name>
     <Library_Version>1.0.0.2</Library_Version>
@@ -292,7 +292,7 @@ Manufacturer .cfg file (e.g. MS3504.cfg) is required to initialize the device.</
         <Path>Public\Utility</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CE211419A0A711203BA92E45CA969C1C</GUID>
+      <GUID>48C561F4CAC1C39D35BF8EBCE0B1B195</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -383,7 +383,7 @@ Manufacturer .cfg file (e.g. MS3504.cfg) is required to initialize the device.</
         <Path>Public\Configure\Get Device Configuration.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3B328DEB1CD4ED596C6FE589DAD978F9</GUID>
+      <GUID>C8C761D5620D48A89C8B02E1C854D464</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -432,7 +432,7 @@ Manufacturer .cfg file (e.g. MS3504.cfg) is required to initialize the device.</
         <Path>Public\Action-Status\Open Shutter.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>29DCB705D121F265EEB5A2BCD66A6126</GUID>
+      <GUID>759130706209AD3FC1D42128B4C786BF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -481,7 +481,7 @@ Manufacturer .cfg file (e.g. MS3504.cfg) is required to initialize the device.</
         <Path>Public\Utility\Get Device Information.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D4AD053BB49E5CA0A354CD5EEF76529A</GUID>
+      <GUID>49C23478DC92E53D4863AFD57D1A4D27</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
