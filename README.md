@@ -20,3 +20,6 @@ Manufacturer .cfg file (e.g. MS3504.cfg) is required to initialize the device.
 ## Examples
 ### SOL Instruments MS.vi
 Example VI that demonstrates all library features.
+
+## Links
+[Imaging monochromator-spectrographs of MS series](https://solinstruments.com/en/products/spectroscopy/monochromator-spectrographs)
