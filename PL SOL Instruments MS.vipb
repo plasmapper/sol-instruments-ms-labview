@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-06-29 21:50:45" Creator="Researcher" Comments="" ID="b2e29281513cefa0169403ea5e362715">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-06-30 14:14:07" Creator="Researcher" Comments="" ID="3cac97d105b492bbbbb06d302cd29e5a">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_SOL_Instruments_MS</Package_File_Name>
     <Library_Version>1.0.0.5</Library_Version>
@@ -31,6 +31,9 @@
       <Description>LabVIEW instrument driver for SOL Instruments (Solar TII) MS series monochromator-spectrographs.
 
 Tested on Solar TII MS3504i and MS2001i.
+
+Disclaimer
+This library was written using reverse engineering due to the lack of the device protocol information.
 
 Features
 1. Configure grating/wavelength/mirror/slit.
@@ -289,7 +292,7 @@ Manufacturer .cfg file (e.g. MS3504.cfg) is required to initialize the device.</
         <Path>Public\Utility</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5F5F96C7E06D6834C4FF712CBC890841</GUID>
+      <GUID>66BC07CE61C617281E90B7639CC7DAD9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -380,7 +383,7 @@ Manufacturer .cfg file (e.g. MS3504.cfg) is required to initialize the device.</
         <Path>Public\Configure\Get Device Configuration.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>19C8EC5FD4CDE36435C605DADDF894EE</GUID>
+      <GUID>F76C49979667AE01C395398EB8CAE12D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -429,7 +432,7 @@ Manufacturer .cfg file (e.g. MS3504.cfg) is required to initialize the device.</
         <Path>Public\Action-Status\Open Shutter.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>91494EBFEDC5E8A356AEF4C40F8A7C90</GUID>
+      <GUID>39EEB80037015A7D28DD3D3E5B1EA011</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -478,7 +481,7 @@ Manufacturer .cfg file (e.g. MS3504.cfg) is required to initialize the device.</
         <Path>Public\Utility\Get Device Information.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0AEDCC65CB7318DBBAD2139B24E9C24D</GUID>
+      <GUID>F4414C0E2DD511A14C28B9F9366BADB1</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

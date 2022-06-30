@@ -3,6 +3,9 @@ LabVIEW instrument driver for SOL Instruments (Solar TII) MS series monochromato
 
 Tested on Solar TII MS3504i and MS2001i.
 
+## Disclaimer
+This library was written using reverse engineering due to the lack of the device protocol information.
+
 ## Requirements
 LabVIEW 2015 and higher.
 
