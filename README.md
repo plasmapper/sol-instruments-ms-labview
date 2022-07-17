@@ -9,6 +9,9 @@ This library was written using reverse engineering due to the lack of the device
 ## Requirements
 LabVIEW 2015 and higher.
 
+## Installation
+[VIPM package](https://www.vipm.io/package/plasmapper_lib_pl_sol_instruments_ms/)
+
 ## Features
 1. Configure grating/wavelength/mirror/slit.
 2. Open/close shutter.
