@@ -1,6 +1,4 @@
-# SOL Instruments (Solar TII) MS Series Library for LabVIEW
-LabVIEW instrument driver for SOL Instruments (Solar TII) MS series monochromator-spectrographs.
-
+# LabVIEW Instrument Driver for SOL Instruments (Solar TII) MS Series Monochromator-Spectrographs
 Tested on Solar TII MS3504i and MS2001i.
 
 ## Disclaimer
