@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-07-07 15:19:28" Creator="Researcher" Comments="" ID="f990c1d11df6f5ba048c4fbe2235f1b2">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-11-23 14:26:36" Creator="Researcher" Comments="" ID="8d8c26eab6313b97e0a05fee517ab62d">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_SOL_Instruments_MS</Package_File_Name>
-    <Library_Version>1.0.0.6</Library_Version>
+    <Library_Version>1.0.1.7</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\build</Library_Output_Folder>
@@ -45,7 +45,8 @@ Manufacturer .cfg file (e.g. MS3504.cfg) is required to initialize the device.</
       <Copyright/>
       <Packager>plasmapper</Packager>
       <URL>https://github.com/plasmapper/sol-instruments-ms-labview</URL>
-      <Release_Notes>Initial release.</Release_Notes>
+      <Release_Notes>Fixed
+- Slit width step unit and slit field in example.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -292,7 +293,7 @@ Manufacturer .cfg file (e.g. MS3504.cfg) is required to initialize the device.</
         <Path>Public\Utility</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>ADE2D44245FC1B388D29241998449C88</GUID>
+      <GUID>50AD1E9D7B48BE240737D9845A67E4B1</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -383,7 +384,7 @@ Manufacturer .cfg file (e.g. MS3504.cfg) is required to initialize the device.</
         <Path>Public\Configure\Get Device Configuration.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A04C0A439903AC8F9A94847379BEB739</GUID>
+      <GUID>4B2DF1F344080A25D77C00B5403136B7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -432,7 +433,7 @@ Manufacturer .cfg file (e.g. MS3504.cfg) is required to initialize the device.</
         <Path>Public\Action-Status\Open Shutter.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C8FBDD8672D5B0BAEA832ABE299B343D</GUID>
+      <GUID>73196959BF50C66A193684C1675D1BF0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -481,7 +482,7 @@ Manufacturer .cfg file (e.g. MS3504.cfg) is required to initialize the device.</
         <Path>Public\Utility\Get Device Information.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CF92D320BC24B33804EDCEDCB9B0C740</GUID>
+      <GUID>DB10B0A2E6F62C43ADDEBEFDE325D938</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
